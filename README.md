@@ -1,2 +1,1 @@
-# .github
-GitHub organisation configuration
+Future home for [yashjawale/fabr](https://github.com/yashjawale/fabr)
